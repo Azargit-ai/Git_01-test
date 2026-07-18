@@ -1,3 +1,5 @@
-#input=int(("10"))
-  #print("Print("Devops-test")
- # Enable agent to chack 
+if
+input=int(("12"))
+  print("Devops-test")
+else
+print=("check-agent")
